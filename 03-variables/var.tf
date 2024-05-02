@@ -5,7 +5,7 @@ variable "x" {
 }
 
 # declare variable without value
-variable "y" {}
+#variable "y" {}
 
 
 # print variable
